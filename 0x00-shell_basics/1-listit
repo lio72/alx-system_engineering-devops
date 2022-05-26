@@ -1,1 +1,2 @@
-ls
+echo 'Applications Documents Dropbox Movies Pictures'
+echo 'Desktop  downloads Librarys Music Public'
