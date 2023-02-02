@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#we are going  to list all listening port on our pc
+netstat -anpe | grep "1234" | grep "LISTEN"
