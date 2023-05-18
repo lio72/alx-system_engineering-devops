@@ -1,0 +1,2 @@
+hutting gunicorn master and workers gracefully
+pgrep gunicorn | xargs kill -HUP 
