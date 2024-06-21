@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 #connexion using private key
-ssh -i ~/.ssh/school ubuntu@54.236.53.181
+# i can store my private key in other location. In this code, it's store in ~/.ssh/ directory 
+ssh -i ~/.ssh/school ubuntu@54.197.104.142
