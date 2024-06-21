@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # Bash script that creates an RSA key with full option
+# -b to specified number of key bits, -p to specified passphrase and -f to specifiy file name
 ssh-keygen -t rsa -b 4096 -P betty -f school 
